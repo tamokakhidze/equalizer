@@ -1,0 +1,662 @@
+.main-div {
+    
+    background-color: #FCFAF9;
+    width: 375px;
+    height: 1945px;
+    margin: auto;
+    position: relative; 
+    background-image: url(bg-main-mobile.png);
+    background-repeat: no-repeat;
+    background-position: 20px -200px;
+    
+      
+
+}
+
+.a1 {
+    width: 146.09px;
+    height: 32px;
+    color: #191826;
+    top: 40px;
+    left: 24px;
+    position: absolute;
+    
+
+
+}
+
+
+
+.text1 {
+
+    width: 327px;
+    height: 144px;
+    
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    left: 24px;
+    color: #191826;
+    position: absolute;
+    top: 136px;
+
+}
+
+.text2 {
+    font-family: 'IBM Plex Sans' ;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color :#191826;
+    top: 300px;
+    width: 327px;
+    height: 156px;
+    left: 24px;
+    position: absolute;
+    
+}
+
+.bluebackg {
+    width: 375px;
+    height: 600px;
+    background-color: #191826;
+    border-radius: 12px;
+    position: absolute;
+    top: 622px;
+    
+
+}
+
+.group8 {
+    margin-left: 48px;
+    width: 280px;
+    height: 420px;
+    left: 48px;
+    top: 622px;
+    background-image: url(bg-pattern-2.svg);
+    background-repeat: no-repeat;
+   
+}
+
+.phone-screen {
+    width: 208.97px;
+    height: 430px;
+    background-image: url(illustration-app.png);
+    background-size: contain;
+    margin-left: 80px;
+    margin-top: -500px;
+}
+
+.premium-eq-div {
+    width: 375px;
+    height: 546px;
+    background-color: #FA7453;
+    border-radius: 12px;
+    margin-top: 1002px;
+    position: absolute;
+}
+
+.text-premium-eq {
+
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FCFAF9;
+    width: 302px;
+    height: 140px;
+    position: absolute;
+    top: 48px;
+    left: 32px;
+
+}
+
+.get-expert-text {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FCFAF9;
+    width: 302px;
+    height: 140px;
+    position: absolute;
+    top: 100px;
+    left: 32px;
+
+}
+
+.price {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FCFAF9;
+    width: 302px;
+    height: 140px;
+    position: absolute;
+    top: 276px;
+    left: 42px;
+
+
+}
+
+.btn-ios {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    border: none;
+    text-align: center;
+    letter-spacing: -0.18px;
+    height: 61px;
+    width: 296px;
+    border-radius: 12px;
+    background-color: #191826;
+    position: absolute;
+    top: 360px;
+    left: 42px;
+    color: #FCFAF9;
+    
+}
+
+.btn-android{
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    border: none;
+    text-align: center;
+    letter-spacing: -0.18px;
+    height: 61px;
+    width: 296px;
+    border-radius: 12px;
+    background-color: #FCFAF9;
+    position: absolute;
+    top: 437px;
+    left: 42px;
+    color: #FCFAF9;
+    
+
+}
+
+.icon-apple {
+    height: 20px;
+    width: 17.08px;
+    left: 77px;
+    top: 10.68121337890625px;
+    position: absolute;
+    top: 21px;
+    
+}
+
+.ios-download-text {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: -0.18px;
+    text-align: left;
+    color: #FCFAF9;
+    width: 302px;
+    height: 140px;
+    position: absolute;
+    top: 15px;
+    left: 102px;
+
+}
+
+
+.icon-android {
+    height: 20px;
+    width: 16.7px;
+    left: 59px;
+    position: absolute;
+    top: 22px;
+    
+}
+
+.android-download-text {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: -0.18px;
+    text-align: left;
+    color: #191826;
+    width: 302px;
+    height: 140px;
+    position: absolute;
+    top: 15px;
+    left: 83.5px;
+
+}
+
+.footer {
+    width: 375px;
+    height: 397px;
+    position: absolute;
+    top: 1550px;
+
+}
+
+.equalizer-png {
+    top: 63.99px;
+    left: 25px;
+    position: absolute;
+}
+
+.footer-text {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:#191826;
+    width: 302px;
+    height: 140px;
+    position: absolute;
+    top: 128px;
+    left: 24px;
+
+}
+
+.facebook-icon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 297px;
+    left: 24px;
+
+}
+
+.instagram-icon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 297px;
+    left: 64px;
+
+}
+
+.twitter-icon {
+    width: 20px;
+    height: 16.25px;
+    position: absolute;
+    top: 299px;
+    left: 104px;
+
+}
+
+.pattern {
+    
+    background-image: url(bg-pattern-1.svg);
+    top: 0%;
+    right: 0%;
+    width: 266px;
+    height: 400px;
+    right: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+
+@media (min-width: 800px) {
+    .main-div {
+        height: 1781px;
+        width: 768px;
+        
+        background-image: url(bg-main-tablet.png);
+        background-repeat: no-repeat;
+        background-position: -300px -400px;
+    }
+
+    .bluebackg {
+        height: 600px;
+        width: 696px;
+        left: 33px;
+        top: 770px;
+        position: absolute;
+        
+    }
+    .phone-screen {
+       position: absolute;
+       top: 350px;
+       
+        width: 270.21px;
+        height: 556px;
+        left: -30px;
+        
+    }
+
+    .group8 {
+        position: absolute;
+        background-image: url(Group\ 8.png);
+        
+        width: 280px;
+        height: 420px;
+        left: 160px;
+        top: -5px;
+    }
+
+    
+
+    .premium-eq-div {
+        
+        width: 399px;
+        height: 546px;
+        left: 272px;
+        top: -90px;
+    }
+
+    .footer {
+        width: 768px;
+        height: 200px;
+    }
+
+    .footer-text {
+        width: 302px;
+        height: 140px;
+        position: absolute;
+        top: 128px;
+        left: 24px;
+    }
+    
+    .facebook-icon {
+
+        position: absolute;
+        top: 100px;
+        left: 629px;
+    
+    }
+    
+    .instagram-icon {
+        
+        position: absolute;
+        top: 100px;
+        left: 669px;
+    
+    }
+    
+    .twitter-icon {
+       
+        position: absolute;
+        top: 100px;
+        left: 709px;
+    
+    }
+
+    .footer-text {
+        width: 366px;
+        height: 79px;
+        top: 70px;
+        left: 33px;
+    }
+
+    .equalizer-png {
+        top: 30px;
+        left: 33px;
+        position: absolute;
+    }
+
+    .text1 {
+
+        width: 520px;
+        height: 192px;
+        font-size: 64px;
+        line-height: 64px;
+        left: 39px;
+        position: absolute;
+        top: 189px;
+    
+    }
+    
+    .text2 {
+        font-size: 18px;
+        line-height: 28px;
+        top: 409px;
+        width: 514px;
+        height: 112px;
+        left: 39px;
+        position: absolute;
+    }
+
+    .a1 {
+
+        top: 61px;
+        left: 39px;
+        position: absolute;
+    }
+
+
+
+
+    
+}
+
+@media (max-width: 800px) {
+
+    .pattern {
+        display: none;
+    }
+    
+}
+
+
+@media (min-width: 1200px) {
+    .main-div {
+        width: 1440px;
+        height: 1832px;
+        background-image: url(bg-main-desktop.png);
+        background-repeat: no-repeat;
+        background-position: -300px -400px;
+    }
+
+    .bluebackg {
+        position: absolute;
+        width: 1110px;
+        height: 600px;
+        left: 165px;
+        top: 860px;
+        
+    }
+    .phone-screen {
+        position: absolute;
+        width: 312px;
+        height: 642px;
+        left: 102px;
+        top: 300px;
+    }
+
+    .group8 {
+        position: absolute;
+        background-image: url(Group\ 8.png);
+        width: 312px;
+        height: 468px;
+        left: 373px;
+        top: 10px;
+    }
+
+    
+
+    .premium-eq-div {
+        position: absolute;
+        width: 446px;
+        height: 625px;
+        left: 790px;
+        top: -50px;
+
+    }
+
+    .text-premium-eq {
+
+        font-size: 40px;
+        line-height: 52px;
+        width: 333px;
+        height: 152px;
+        position: absolute;
+        top: 58px;
+        left: 54px;
+    
+    }
+    
+    .get-expert-text {
+        font-size: 20px;
+        line-height: 34px;
+        width: 333px;
+        height: 170px;
+        position: absolute;
+        top: 132px;
+        left: 54px;
+    
+    }
+    
+    .price {
+        width: 302px;
+        height: 140px;
+        top: 350px;
+        left: 54px;
+    
+    
+    }
+    
+    .btn-ios {
+
+        height: 61px;
+        width: 333px;
+        top: 439px;
+        left: 54px;
+        
+    }
+    
+    .btn-android{
+        height: 61px;
+        width: 333px;
+        position: absolute;
+        top: 516px;
+        left: 54px;
+    }
+    
+    .icon-apple {
+        height: 20px;
+        width: 17.08px;
+        left: 96px;
+        top: 21px;
+        
+    }
+    
+    .ios-download-text {
+        top: 15px;
+        left: 121px;
+    
+    }
+    
+    
+    .icon-android {
+        left: 77px;
+        top: 22px;
+    }
+    
+    .android-download-text {
+        left: 101px;
+    
+    }
+
+    .footer {
+        width: 768px;
+        height: 200px;
+    }
+
+    .footer-text {
+        width: 302px;
+        height: 140px;
+        position: absolute;
+        top: 128px;
+        left: 24px;
+    }
+    
+    .facebook-icon {
+
+        position: absolute;
+        top: 123px;
+        left: 1175px;
+    
+    }
+    
+    .instagram-icon {
+        
+        position: absolute;
+        top: 123px;
+        left: 1215px;
+    
+    }
+    
+    .twitter-icon {
+       
+        position: absolute;
+        top: 123px;
+        left: 1255px;
+    
+    }
+
+    .footer-text {
+        top: 100px;
+        left: 450px;
+        width: 400px;
+    }
+
+    .equalizer-png {
+        top: 100px;
+        left: 166px;
+        position: absolute;
+    }
+
+    .text1 {
+        position: absolute;
+        width: 800px;
+        height: 176px;
+        left: 165px;
+        top: 221px;
+        text-align: left;
+    }
+    
+    .text2 {
+        position: absolute;
+        width: 825px;
+        height: 102px;
+        left: 164.5px;
+        top: 437px;
+        font-size: 20px;
+        line-height: 34px;
+        
+        
+    }
+
+    .a1 {
+
+        top: 61px;
+        left: 166px;
+        position: absolute;
+    }
+
+
+
+
+    
+}
